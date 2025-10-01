@@ -1,7 +1,7 @@
 # Hey! I'm Erika 👋  
 
 💻 **Math–CS @ UCSD** | 🎓 **DoD SMART Scholar in Computer Science and Engineering**  
-🔬 Building **trustworthy AI/ML systems for high-risk environments, and scalable data infra**  
+🔬 Building **Trustworthy AI/ML systems**  
 🚀 Interests: **AI/ML Alignment and Interpretability, Software Engineering**  
 📍 San Diego, CA | [LinkedIn](https://www.linkedin.com/in/erika-lee-890446200/) | [GitHub](https://github.com/erikaleeey)  
 
@@ -50,7 +50,6 @@ AI/ML for autonomous soccer-playing robots.
 
 ## 📊 GitHub Stats  
 
-![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikaleeey&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaleeey&layout=compact&theme=tokyonight)  
 
 ---

@@ -38,11 +38,11 @@
 *Python, Neo4j, React/Next.js, Tailwind, PyTorch*  
 Interpretability: Interacting with intermediate **AI reasoning processes** through knowledge graphs.
 
-🔹 [**Quantum Random Circuit Sampling Simulator**](https://github.com/erikaleeey)  
+🔹 [**Quantum Random Circuit Sampling Simulator**](https://github.com/ilovelogic/Pauli-Path-Method)  
 *Python, Qiskit, NumPy*  
 Designed tree-based simulation algorithms achieving **60× speedups** for quantum random circuit sampling.  
 
-🔹 [**IEEE RoboCup Soccer AI**](https://github.com/erikaleeey)  
+🔹 [**IEEE RoboCup Soccer AI**](https://github.com/IEEE-TritonsRCSC/robocup-software)  
 *Java, Protobuf, RabbitMQ*  
 AI/ML for autonomous soccer-playing robots.  
 

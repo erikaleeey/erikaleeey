@@ -21,9 +21,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
+
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -33,6 +36,9 @@
 ---
 
 ## 📌 Featured Projects  
+🔹 [**AI/ML Women's Safety Appr**](https://github.com/erikaleeey/calhacks_womens_safety)  
+*React-Native, Python, Scikit-learn, Expo Go*  
+Full-stack mobile app for ML-based real-time geolocation risk analysis + context-enhanced voice AI agents. 
 
 🔹 [**AI Mind Explorer**](https://github.com/erikaleeey/ai-mind-explorer)  
 *Python, Neo4j, React/Next.js, Tailwind, PyTorch*  

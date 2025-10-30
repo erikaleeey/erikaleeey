@@ -36,7 +36,7 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [**AI/ML Women's Safety Appr**](https://github.com/erikaleeey/calhacks_womens_safety)  
+🔹 [**AI/ML Women's Safety App**](https://github.com/erikaleeey/calhacks_womens_safety)  
 *React-Native, Python, Scikit-learn, Expo Go*  
 Full-stack mobile app for ML-based real-time geolocation risk analysis + context-enhanced voice AI agents. 
 

@@ -1,8 +1,7 @@
 # Hey! I'm Erika 👋  
 
-💻 **Math–CS @ UCSD** | 🎓 **DoD SMART Scholar in Computer Science and Engineering**  
-🔬 Building **Trustworthy AI/ML systems**  
-🚀 Interests: **AI/ML Alignment and Interpretability, Software Engineering**  
+💻 **Math–CS @ UCSD** | 🎓 **MATS 9.0 Scholar**  
+🚀 Interests: **AI/ML Security, Software Engineering**  
 📍 San Diego, CA | [LinkedIn](https://www.linkedin.com/in/erika-lee-890446200/) | [GitHub](https://github.com/erikaleeey)  
 
 ---

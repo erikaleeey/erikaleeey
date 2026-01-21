@@ -6,7 +6,7 @@ San Diego, CA | [LinkedIn](https://www.linkedin.com/in/erika-lee-890446200/) | [
 
 ---
 
-## 🛠 Languages & Tools  
+##  Languages & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -34,7 +34,7 @@ San Diego, CA | [LinkedIn](https://www.linkedin.com/in/erika-lee-890446200/) | [
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 🔹 [**AI/ML Women's Safety App**](https://github.com/erikaleeey/calhacks_womens_safety)  
 *React-Native, Python, Scikit-learn, Expo Go*  
 Full-stack mobile app for ML-based real-time geolocation risk analysis + context-enhanced voice AI agents. 

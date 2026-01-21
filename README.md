@@ -41,7 +41,7 @@ Full-stack mobile app for ML-based real-time geolocation risk analysis + context
 
 🔹 [**AI Mind Explorer**](https://github.com/erikaleeey/ai-mind-explorer)  
 *Python, Neo4j, React/Next.js, Tailwind, PyTorch*  
-Interpretability: Interacting with intermediate **AI reasoning processes** through knowledge graphs.
+Interacting with intermediate **AI reasoning processes** through knowledge graphs.
 
 🔹 [**Quantum Random Circuit Sampling Simulator**](https://github.com/ilovelogic/Pauli-Path-Method)  
 *Python, Qiskit, NumPy*  

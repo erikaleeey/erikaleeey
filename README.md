@@ -1,8 +1,8 @@
 # Hey! I'm Erika 👋  
 
-💻 **Math–CS @ UCSD** | 🎓 **MATS 9.0 Scholar**  
-🚀 Interests: **AI/ML Security, Software Engineering**  
-📍 San Diego, CA | [LinkedIn](https://www.linkedin.com/in/erika-lee-890446200/) | [GitHub](https://github.com/erikaleeey)  
+ **Math–CS @ UCSD** |  **MATS 9.0 Scholar**  
+Interests: **AI/ML Security, Software Engineering**  
+San Diego, CA | [LinkedIn](https://www.linkedin.com/in/erika-lee-890446200/) | [GitHub](https://github.com/erikaleeey)  
 
 ---
 
@@ -53,13 +53,3 @@ AI/ML for autonomous soccer-playing robots.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaleeey&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect  
-- [LinkedIn](https://www.linkedin.com/in/erika-lee-890446200/)  
-- [Email](mailto:erl015@ucsd.edu)  
-- [GitHub](https://github.com/erikaleeey)  
